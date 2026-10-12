@@ -1,5 +1,9 @@
 # MD Health Connexions - Event Management System
 
+![MD Health Connexions — healthcare event management system](screenshots/preview.png)
+
+**Live site:** <https://teboho-mohale98.github.io/MDCONNECTIVITY/>
+
 ## Overview
 This is a fully functional event management system with an admin panel that syncs in real-time with the public events page.
 
